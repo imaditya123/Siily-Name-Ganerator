@@ -111,7 +111,7 @@ Name is: Butterbean Vinaigrette
 ---
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT (License)[https://github.com/imaditya123/Silly-Name-Ganerator#:~:text=README-,Apache%2D2.0%20license,-Game%20Selector] - see the LICENSE file for details.
 
 ---
 
