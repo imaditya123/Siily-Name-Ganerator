@@ -21,8 +21,8 @@ Ensure you have Python 3.7 or above installed on your system.
 ### Installation
 Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/imaditya123/Silly-Name-Ganerator.git
+cd Silly-Name-Ganerator
 ```
 
 ### Run the Program
